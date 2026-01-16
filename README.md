@@ -21,13 +21,27 @@ I enjoy transforming raw data into clear, actionable insights that help teams wo
 
 ---
 
+## 📜 Certifications
+
+- **Pre-MBA Statistics** – Indian Institute of Management Ahmedabad  
+- **Microsoft Power BI Data Analyst**  
+- **Oracle SQL Proficiency**  
+- **McKinsey.org Forward Program**  
+- **Advanced Excel & Statistics**  
+- **Data Visualization with Tableau**  
+- **Python & R Programming**  
+- **Prompt Design in Vertex AI – Google Gemini**  
+
+---
+
 ## 🎯 Professional Interests
 
-- Business Analytics  
+- Business Analytics & Reporting 
 - Data Analytics & Reporting  
 - Operational Excellence  
-- Decision Support Systems  
-- Process Optimization  
+- Process Optimization
+- Business Intelligence & Strategy 
+- Data-Driven Decision Making   
 
 ---
 
