@@ -22,7 +22,7 @@ I enjoy transforming raw data into clear, actionable insights that help teams wo
 ---
 
 ## 📜 Certifications
-- **BCG x Introduction to Data for Decision**
+- **BCG X Introduction to Data for Decision**
 - **BCG X Data Science Job Simulation**
 - **BCG X Generative AI Job Simulation**
 - **Deloitte Data Analytics**   
