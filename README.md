@@ -21,7 +21,7 @@ I enjoy transforming raw data into clear, actionable insights that help teams wo
 
 ---
 
-## 📜 Certifications
+## 📜 [Certifications](https://github.com/Tushar-Pillay/certifications-and-courses)
 - **BCG Strategy Consulting**
 - **BCG Introduction to Strategy Consulting**
 - **BCG X Introduction to Data for Decision**
