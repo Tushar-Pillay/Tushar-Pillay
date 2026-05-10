@@ -8,6 +8,18 @@ Currently, I am strengthening my skills in **analytics, statistics, SQL, and pro
 
 I enjoy transforming raw data into clear, actionable insights that help teams work more efficiently and make informed decisions. I value clarity, impact, and continuous improvement, and I am always open to learning, collaboration, and meaningful professional connections.
 
+<p align="center">
+
+<a href="https://www.credly.com/badges/062f912f-095b-45e6-a815-7a0ffba287da/public_url">
+    <img src="https://img.shields.io/badge/Credly-Verified%20Badge-orange?style=for-the-badge&logo=credly&logoColor=white" height="35"/>
+</a>
+
+<a href="https://www.credly.com/badges/60c914a8-e36a-4614-a875-ad33ce71bd90/public_url">
+    <img src="https://img.shields.io/badge/Credly-Professional%20Certificate-blue?style=for-the-badge&logo=credly&logoColor=white" height="35"/>
+</a>
+
+</p>
+
 ---
 
 ## 🛠️ Skills & Tools
