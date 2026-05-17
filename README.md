@@ -23,6 +23,7 @@ I enjoy transforming raw data into clear, actionable insights that help teams wo
 
 ## 📜 Certifications 
 [Certificate Repositorie](https://github.com/Tushar-Pillay/certifications-and-courses)
+- **ClaudeAI-Anthropic Academy** - AI Capabilities and Limitations
 - **BCG Strategy Consulting**
 - **BCG Introduction to Strategy Consulting**
 - **BCG X Introduction to Data for Decision**
