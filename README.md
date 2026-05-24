@@ -22,22 +22,29 @@ I enjoy transforming raw data into clear, actionable insights that help teams wo
 ---
 
 ## 📜 Certifications 
-[Certificate Repositorie](https://github.com/Tushar-Pillay/certifications-and-courses)
-- **AI Capabilities and Limitations** - ClaudeAI-Anthropic Academy
-- **BCG Strategy Consulting**
-- **BCG Introduction to Strategy Consulting**
-- **BCG X Introduction to Data for Decision**
-- **BCG X Data Science Job Simulation**
-- **BCG X Generative AI Job Simulation**
-- **Deloitte Data Analytics**   
-- **Pre-MBA Statistics** – Indian Institute of Management Ahmedabad  
-- **Microsoft Power BI Data Analyst**  
-- **Oracle SQL Proficiency**  
-- **McKinsey.org Forward Program**  
-- **Advanced Excel & Statistics**  
-- **Data Visualization with Tableau**  
-- **Python & R Programming**  
-- **Prompt Design in Vertex AI – Google Gemini**  
+> [📂 View All Credentials in Certificate Repository](https://github.com/Tushar-Pillay/certifications-and-courses)
+
+### 🤖 Artificial Intelligence
+*   **IBM SkillsBuild** – AI Fundamentals: Foundations for Understanding AI
+*   **Google Gemini** – Prompt Design in Vertex AI
+*   **BCG X** – Generative AI Job Simulation
+*   **ClaudeAI** – AI Capabilities and Limitations (Anthropic Academy)
+
+### 💻 Software & Technical Skills
+*   **Microsoft PowerBI** – Data Visualization
+*   **Oracle** – SQL Proficiency
+*   **Tableau** – Data Visualization
+*   **Excel & Statistics** – MicrosoftOffice Proficiency
+*   **Python & R Programming** – Analytic Proficiency
+
+### 💼 Business, Strategy & Analytics
+*   **IIM Ahmedabad** – Pre-MBA Statistics
+*   **McKinsey.org** – Forward Program
+*   **BCG** – Strategy Consulting (Core)
+*   **BCG** – Introduction to Strategy Consulting
+*   **BCG-X** – Introduction to Data for Decision Making
+*   **Deloitte** – Data Analytics Virtual Experience
+*   **BCG X** – Data Science Job Simulation
 
 ---
 
